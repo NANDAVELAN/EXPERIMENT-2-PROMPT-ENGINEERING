@@ -122,6 +122,16 @@ We designed an experiment to evaluate the effectiveness of prompting strategies.
 
 ---
 
+## Future Work
+
+* Extend analysis with **chain-of-thought prompting** and **few-shot examples**.
+* Compare across **different LLMs (e.g., GPT, Claude, Gemini)**.
+* Quantify results using **scoring metrics** for more objectivity.
+
+
+## Output
+[Download the output PDF](https://github.com/NANDAVELAN/EXPERIMENT-2-PROMPT-ENGINEERING/blob/main/Comparative%20Analysis%20of%20Different%20Types%20of%20Prompting%20Patterns.pdf)
+
 ## Conclusion
 
 * **Broad prompts** are useful for **open-ended exploration** but often lack precision.
@@ -130,11 +140,7 @@ We designed an experiment to evaluate the effectiveness of prompting strategies.
 
 ---
 
-## Future Work
 
-* Extend analysis with **chain-of-thought prompting** and **few-shot examples**.
-* Compare across **different LLMs (e.g., GPT, Claude, Gemini)**.
-* Quantify results using **scoring metrics** for more objectivity.
 
 ---
 
