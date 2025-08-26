@@ -1,5 +1,4 @@
-# EXP-2-PROMPT-ENGINEERING-
-
+# EXP-2-PROMPT-ENGINEERING
 
 
 # Comparative Analysis of Different Types of Prompting Patterns
